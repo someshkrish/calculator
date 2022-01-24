@@ -22,11 +22,11 @@ body {
 
 .display-container{
     grid-column-start: span 4;
-    min-height: 4rem;
+    min-height: 7rem;
     max-height: auto;
     background-color: rgba(255, 255, 255, 0.1);
     display: grid;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.7);
     justify-items: end;
     align-items: center;
     word-wrap: break-word;
